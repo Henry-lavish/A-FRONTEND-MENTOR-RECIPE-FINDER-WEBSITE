@@ -650,6 +650,7 @@ html {
     .photo-box{
     width: 99%;
     height: 340px;
+    margin-left:5px; 
     margin-right: 10px;
  }
 
@@ -867,6 +868,7 @@ html {
     .photo-box{
     width: 99%;
     height: 300px;
+    margin-left:5px; 
     margin-right: 10px;
  }
  
